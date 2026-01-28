@@ -1,0 +1,5 @@
+1. International routes like DEL-LHR and DEL-JFK show higher revenue but also higher operational costs.
+2. Some short-haul domestic routes generate consistent profit due to high occupancy.
+3. A few routes show negative average profit indicating cost inefficiencies.
+4. Wide-body aircraft are mostly used on long-haul profitable routes.
+5. Profit peaks are visible during mid-year indicating seasonal demand.
