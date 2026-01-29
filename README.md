@@ -22,6 +22,7 @@
     - [Sample Data Snapshot](#sample-data-snapshot)
     - [Query Result](#query-result)
     - [Dashboard Preview](#dashboard-preview)
+- [Dashboard Preview in mobile view](#dashboard-preview-in-mobile-view)
   - [📦 Dataset Overview](#-dataset-overview)
     - [Data Fields](#data-fields)
     - [Airports Network](#airports-network)
@@ -307,6 +308,12 @@ mysql>
 
 ### Dashboard Preview
 [Click to view Dashboard](https://prath-digital.github.io/Business_Case_Study_Practical-Exam/)
+
+# Dashboard Preview in mobile view
+<video width="300" height="600" controls>
+  <source src="Assets/mobile_preview_dashboard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
